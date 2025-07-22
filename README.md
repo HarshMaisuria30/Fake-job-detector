@@ -17,6 +17,7 @@ This project is designed to help job seekers avoid fraudulent listings. It uses 
 [Fake Job Postings Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 
 ## ▶️ Run Locally
+
 ## 👨‍💻 Developed By
 **Harsh Maisuria**  
 Fake Job Detector | 2025  
