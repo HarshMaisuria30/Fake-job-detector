@@ -17,8 +17,16 @@ This project is designed to help job seekers avoid fraudulent listings. It uses 
 [Fake Job Postings Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)
 
 ## ▶️ Run Locally
+## 👨‍💻 Developed By
+**Harsh Maisuria**  
+Fake Job Detector | 2025  
+
+© 2025 Harsh Maisuria  
+Developed with ❤️ using Python & Streamlit
 
 ### 1. Clone the repo and navigate to folder:
 ```bash
 git clone https://github.com/your-username/fake-job-detector.git
 cd fake-job-detector
+
+
