@@ -42,7 +42,7 @@ st.set_page_config(page_title="Fake Job Detector | Harsh Maisuria", layout="cent
 
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center; color: white;'>🛡️ Project by <strong>Harsh Maisuria</strong> © 2025</p>",
+    "<p style='text-align: center; color: blue;'>🛡️ Project by <strong>Harsh Maisuria</strong> © 2025</p>",
     unsafe_allow_html=True
 )
 
